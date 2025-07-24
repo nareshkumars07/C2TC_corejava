@@ -12,7 +12,11 @@ public class Student {
         this.age = age;
     }
 
-    // Method to display student details
+    public Student() {
+		// TODO Auto-generated constructor stub
+	}
+
+	// Method to display student details
     public void display() {
         System.out.println("ID   : " + id);
         System.out.println("Name : " + name);
