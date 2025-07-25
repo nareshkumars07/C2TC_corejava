@@ -1,10 +1,9 @@
-package assignment2;
+package day3.Scanner;
 import java.util.Scanner;
 public class PersonDemo {
-	//Program to demonstrate encapsulation
-			public static void main(String[] args) {
 
-				//scanner object to accept user inputs
+	public static void main(String[] args) {
+		//scanner object to accept user inputs
 				Scanner ob = new Scanner(System.in);
 				
 				String name;
@@ -34,4 +33,5 @@ public class PersonDemo {
 
 				ob.close();
 			}
-}
+
+	}
