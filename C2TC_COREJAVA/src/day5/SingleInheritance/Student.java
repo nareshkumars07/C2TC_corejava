@@ -37,4 +37,24 @@ public class Student {
 				
 				+ "]";
 	}
+
+	private String getPhno() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	private String getName() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	private String getAddress() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	private String getAadharNo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
